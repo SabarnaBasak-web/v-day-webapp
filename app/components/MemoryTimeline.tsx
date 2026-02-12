@@ -5,7 +5,7 @@ import { memories } from "../data/memories";
 
 export default function MemoryTimeline() {
   return (
-    <div className="relative max-w-3xl mx-auto py-20 px-6">
+    <div className="relative max-w-3xl mx-auto py-10 px-6">
       {/* Vertical Line */}
       <div className="absolute left-1/2 w-1 bg-pink-300 h-full -translate-x-1/2" />
 
